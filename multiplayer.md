@@ -1,5 +1,5 @@
 ---
-title: "Running maps in multiplayer"
+title: "Running Maps in Multiplayer"
 ---
 
 # Setting up a custom map for use

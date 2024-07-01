@@ -2,4 +2,4 @@
 title: "MagicaVoxel Usage"
 ---
 
-# MAGICAVOXEL USAGE
+# Magicavoxel Usage

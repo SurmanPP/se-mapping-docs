@@ -2,9 +2,9 @@
 title: "Getting Started"
 ---
 
-# GETTING STARTED
+# Getting Started
 
-## REQUIREMENTS
+## Requirements
 
 The first step is to download the voxel editor [MagicaVoxel](https://ephtracy.github.io/). That's it!
 
