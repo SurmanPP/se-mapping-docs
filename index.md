@@ -51,7 +51,7 @@ To upload a map folder to the workshop, it must have a `.json`, `.vox` and `prev
 When you have these files ready, the **upload** button will light up. Select a visibility (private, friends only, public) and then click the upload button.
 
 <figure>
-    <img src="assets/img/uploadbutton.png" alt="Upload button"/>
+    <img src="assets/img/uploadbutton.png"/>
     <figcaption>Upload button</figcaption>
 </figure>
 
