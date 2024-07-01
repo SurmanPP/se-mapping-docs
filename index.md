@@ -2,7 +2,6 @@
 title: "Getting Started"
 ---
 
-<!-- <div style="justify-content: center; display: flex; margin-top:10px; font-size: 13px; margin-bottom: 40px"> -->
 # GETTING STARTED
 
 ## REQUIREMENTS
