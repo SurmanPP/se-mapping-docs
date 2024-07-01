@@ -14,7 +14,7 @@ The first step is to download the voxel editor [MagicaVoxel](https://ephtracy.gi
 The corner of your map must be aligned with the center of the grid in MagicaVoxel, with the green arrow pointing upwards and the red arrow pointing to the right:
 
 <figure>
-    <img src="assets/img/alignment.png" alt="Top-down view of a map"/>
+    <img src="assets/img/alignment.png"/>
     <figcaption>Top-down view of a map</figcaption>
 </figure>
  
