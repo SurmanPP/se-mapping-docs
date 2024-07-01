@@ -2,6 +2,7 @@
 title: "Getting Started"
 ---
 
+<div style="justify-content: center; display: flex; margin-top:10px; font-size: 13px; margin-bottom: 40px">
 # GETTING STARTED
 
 ## REQUIREMENTS
@@ -12,10 +13,10 @@ The first step is to download the voxel editor [MagicaVoxel](https://ephtracy.gi
 
 The corner of your map must be aligned with the center of the grid in MagicaVoxel, with the green arrow pointing upwards and the red arrow pointing to the right:
 
-<img src="assets/img/alignment.png" alt="MagicaVoxel Alignment"/>
-<div style="justify-content: center; display: flex; margin-top:10px; font-size: 13px; margin-bottom: 40px">
-    <span>Top-down view of a map</span>
-</div>
+<figure>
+    <img src="assets/img/alignment.png" alt="Top-down view of a map"/>
+    <figcaption>Top-down view of a map</figcaption>
+</figure>
  
 ## Testing maps
 
