@@ -12,7 +12,7 @@ The first step is to download the voxel editor [MagicaVoxel](https://ephtracy.gi
 
 The corner of your map must be aligned with the center of the grid in MagicaVoxel, with the green arrow pointing upwards and the red arrow pointing to the right:
 
-<img src="media/alignment.png" alt="MagicaVoxel Alignment"/>
+<img src="assets/alignment.png" alt="MagicaVoxel Alignment"/>
 <div style="justify-content: center; display: flex; margin-top:10px; font-size: 13px; margin-bottom: 40px">
     <span>Top-down view of a map</span>
 </div>
@@ -26,7 +26,7 @@ Create a new folder and give it a name, then place your `.vox` file in it.
 Maps must also have an accompanying `.json` file, which contains metadata for textures, lights, spawn regions, etc. [map_template.json](/map_template.json) file is the template file listed below.
 
 
-<img src="media/folderbutton.png" alt="In-game workshop folder icon"/>
+<img src="assets/folderbutton.png" alt="In-game workshop folder icon"/>
 <div style="justify-content: center; display: flex; margin-top:10px; font-size: 13px; margin-bottom: 40px">
     <span>In-game workshop folder icon</span>
 </div>
@@ -34,7 +34,7 @@ Maps must also have an accompanying `.json` file, which contains metadata for te
 
 If there are any errors or missing fields in your `json` metadata file, they will appear in game on the map list. Clicking the refresh icon will cause all files to be reloaded and the error list will update.
 
-<img src="media/errors.png" alt="JSON errors"/>
+<img src="assets/errors.png" alt="JSON errors"/>
 <div style="justify-content: center; display: flex; margin-top:10px; font-size: 13px; margin-bottom: 40px">
     <span>JSON errors</span>
 </div>
@@ -45,7 +45,7 @@ If there are any errors or missing fields in your `json` metadata file, they wil
 To upload a map folder to the workshop, it must have a `.json`, `.vox` and `preview.jpg` file. The `preview.jpg` file should be a screenshot you've taken of your map.
 
 <div style="justify-content: center; display: flex;">
-    <img src="media/folderexample.png" alt="Map folder example"/>
+    <img src="assets/folderexample.png" alt="Map folder example"/>
 </div>
 <div style="justify-content: center; display: flex; margin-top:10px; font-size: 13px; margin-bottom: 40px">
     <span>Map folder example</span>
@@ -53,7 +53,7 @@ To upload a map folder to the workshop, it must have a `.json`, `.vox` and `prev
 
 When you have these files ready, the **upload** button will light up. Select a visibility (private, friends only, public) and then click the upload button.
 
-<img src="media/uploadbutton.png" alt="Upload button"/>
+<img src="assets/uploadbutton.png" alt="Upload button"/>
 <div style="justify-content: center; display: flex; margin-top:10px; font-size: 13px; margin-bottom: 40px">
     <span>Upload button</span>
 </div>
