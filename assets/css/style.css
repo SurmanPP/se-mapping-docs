@@ -1,7 +1,12 @@
+figure {
+  place-items: center;
+  display: grid;
+}
+
 figcaption {
-  justify-content: center;
-  display: flex;
-  margin-top: 10px;
-  font-size: 13px;
-  margin-bottom: 40px;
+  margin: 10px 0px 0px 0px;
+}
+
+img {
+  max-width: 90%;
 }
